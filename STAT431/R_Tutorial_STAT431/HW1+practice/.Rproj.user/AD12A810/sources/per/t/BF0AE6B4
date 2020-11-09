@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537749952209.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3431697694",
+    "id" : "BF0AE6B4",
+    "lastKnownWriteTime" : 1537749408,
+    "last_content_update" : 1537766169335,
+    "path" : "C:/Users/andre/OneDrive/Desktop/STAT 431 HW/R_Tutorial_STAT431/R_tutorial.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "384,67",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,19 @@
+domasna.dva<-read.delim("physical.txt" , sep = "\t")
+View(domasna.dva)
+plot(domasna.dva$X.Height., domasna.dva$X.HeadCirc., xlab = "height", ylab = "head circumference")
+coeff <- cor(domasna.dva$X.Height., domasna.dva$X.HeadCirc.)
+View(coeff)
+mazi.inf<-read.delim("physical-male.txt", sep = "\t")
+View(mazi.inf)
+plot(mazi.inf$X.Height. , mazi.inf$X.HeadCirc.)
+coeffM <- cor(mazi.inf$X.Height. , mazi.inf$X.HeadCirc.)
+zeni.inf <- read.delim("physical-female.txt", sep = "\t")
+plot(zeni.inf$X.Height. , zeni.inf$X.HeadCirc.)
+coeffZ<-cor(zeni.inf$X.Height., zeni.inf$X.HeadCirc.)
+
+domasna.dva$Colour="black"
+# Set new column values to appropriate colours
+domasna.dva$Colour[domasna.dva$X.Sex.=='Male']="red"
+domasna.dva$Colour[domasna.dva$X.Sex.=='Female']="black"
+plot(domasna.dva$X.Height., domasna.dva$X.HeadCirc., xlab = "height", ylab = "head circumference",col=domasna.dva$Color)
+

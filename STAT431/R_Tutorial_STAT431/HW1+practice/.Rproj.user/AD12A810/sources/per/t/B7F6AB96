@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537755923433.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3553316930",
+    "id" : "B7F6AB96",
+    "lastKnownWriteTime" : 1537815900,
+    "last_content_update" : 1537815900361,
+    "path" : "C:/Users/andre/OneDrive/Desktop/STAT 431 HW/R_Tutorial_STAT431/fml.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

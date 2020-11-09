@@ -1,0 +1,11 @@
+info.height <- read.delim("stat431height.txt", sep = "\t")
+View(info.height)
+hist(info.height$height)
+tapply(info.height$height, info.height$gender, mean)
+tapply(info.height$height, info.height$gender, sd)
+tallness = info.height$height
+SD(info.height$height, na.rm = FALSE)
+
+tapply(info.height$height, info.height$gender, hist)
+tapply(info.height$height, info.height$gender, boxplot)
+boxplot(info.height$height)

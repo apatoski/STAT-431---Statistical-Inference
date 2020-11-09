@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539141968810.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "66B2090A",
+    "lastKnownWriteTime" : 4189038573660037743,
+    "last_content_update" : 1539141968810,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5FE63ABB",
+        "caption" : "mazi.data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mazi.data&cache_key=5FE63ABB",
+        "displayedObservations" : 0,
+        "environment" : "",
+        "object" : "mazi.data",
+        "preview" : 0,
+        "totalObservations" : 0,
+        "variables" : 10
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

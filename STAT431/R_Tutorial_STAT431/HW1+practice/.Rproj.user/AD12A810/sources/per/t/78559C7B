@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539133901819.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "78559C7B",
+    "lastKnownWriteTime" : 7665811708097339938,
+    "last_content_update" : 1539133901819,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "118DB5C3",
+        "caption" : "domasna.dva",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=domasna.dva&cache_key=118DB5C3",
+        "displayedObservations" : 55,
+        "environment" : "",
+        "object" : "domasna.dva",
+        "preview" : 0,
+        "totalObservations" : 55,
+        "variables" : 10
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

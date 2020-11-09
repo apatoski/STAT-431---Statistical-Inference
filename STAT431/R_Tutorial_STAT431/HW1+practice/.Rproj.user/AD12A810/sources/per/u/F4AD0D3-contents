@@ -1,0 +1,13 @@
+tble<-read.delim("physical.txt",sep = "\t")
+plot(X.HeadCirc. ~ X.Height., data = tble, xlab="height", ylab = "head circ.")
+corelation<-cor(tble$X.Height.,tble$X.HeadCirc.)
+corelation
+plot (X.HeadCirc. ~X.Height. , data = tble[tble$X.Sex.=="'Male'",] , xlab = "height" , ylab = "head cir" , main = "males")
+plot (X.HeadCirc. ~X.Height. , data = tble[tble$X.Sex.=="'Female'",] , xlab = "height" , ylab = "head cir" , main = "females")
+corre.male <- cor(tble[tble$X.Sex.=="'Male'","X.Height."], tble[tble$X.Sex.=="'Male'","X.HeadCirc."])
+corre.male
+corre.female <- cor(tble[tble$X.Sex.=="'Female'","X.Height."], tble[tble$X.Sex.=="'Female'","X.HeadCirc."])
+corre.female
+
+plot(X.HeadCirc. ~ X.Height. , data = tble[tble$X.Sex.=="'Male'",], xlab = "height" , ylab = "head cir", col = "red")
+points(X.HeadCirc. ~ X.Height. , data = tble[tble$X.Sex.=="'Female'",], col = "blue")

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537802830724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1100655915",
+    "id" : "8BDF4471",
+    "lastKnownWriteTime" : 1537802764,
+    "last_content_update" : 1537802764,
+    "path" : "C:/Users/andre/OneDrive/Desktop/STAT 431 HW/R_Tutorial_STAT431/Lecture 5.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
